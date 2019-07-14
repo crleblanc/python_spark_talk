@@ -1,3 +1,3 @@
 FROM jupyter/pyspark-notebook
 
-RUN pip3 install koalas
+RUN pip install koalas
